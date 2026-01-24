@@ -41,5 +41,3 @@ class Solution(object):
                 elif board[r][c] == "O":
                     board[r][c] = "X"
             
-
-        return board
