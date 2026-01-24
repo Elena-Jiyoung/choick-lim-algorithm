@@ -1,3 +1,3 @@
-Welcome to the study logs!
+## Welcome to the study logs!
 
 열공!
